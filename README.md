@@ -10,7 +10,7 @@ HexLib — это набор инструментов для работы с ц�
 
 ```bash
 git clone https://github.com/Nikolay-Yakunin/hex-lib.git
-cd color-library
+cd hex-lib
 npm install
 ```
 
