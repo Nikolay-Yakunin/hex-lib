@@ -50,7 +50,7 @@ HexLib предоставляет функции для работы с цвет
 ## Примеры
 
 ```javascript
-import { rgbToHex, hexToRgb, isHexValid, adjustBrightness } from 'hex-lib';
+import { rgbToHex, hexToRgb, isHexValid, adjustBrightness } from 'hex-lib-ny';
 
 console.log(rgbToHex(255, 255, 255)); // "FFFFFF"
 console.log(hexToRgb('#FFFFFF')); // { r: 255, g: 255, b: 255 }

@@ -17,7 +17,7 @@ npm install
 Для установки пакета через npm выполните:
 
 ```bash
-npm install hex-lib
+npm install hex-lib-ny
 ```
 
 ## Использование
@@ -36,7 +36,7 @@ npm install hex-lib
 #### Пример использования
 
 ```javascript
-import { rgbToHex, hexToRgb, isHexValid, adjustBrightness } from 'color-library';
+import { rgbToHex, hexToRgb, isHexValid, adjustBrightness } from 'hex-lib-ny';
 
 console.log(rgbToHex(255, 255, 255)); // "FFFFFF"
 console.log(hexToRgb('#FFFFFF')); // { r: 255, g: 255, b: 255 }
